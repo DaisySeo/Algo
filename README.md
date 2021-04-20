@@ -1,3 +1,5 @@
 # Algo
 
-Solving Algorithm Problems...
+### Daisy is Solving Algorithm Problems...
+- using: Python3
+- problems from: Programmers, LeetCode

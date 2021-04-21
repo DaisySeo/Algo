@@ -2,4 +2,4 @@
 
 ### Daisy is Solving Algorithm Problems...
 - using: Python3
-- problems from: Programmers, LeetCode
+- problems from: Programmers, LeetCode, BaekJoon
